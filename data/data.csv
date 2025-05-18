@@ -1,0 +1,97 @@
+Country,Region,Total Production (MT),Cultivated Area (Ha),Yield (MT/Ha),Export Volume (MT),Primary Varieties,Organic Production (%),Farm Size Category,Production System
+Mexico,Michoacán,1450000,135000,10.74,820000,"Hass,Fuerte,Criollo",18,Medium-Large,Conventional
+Mexico,Jalisco,580000,54000,10.74,320000,"Hass,Fuerte,Reed",12,Medium,Conventional
+Mexico,México State,280000,27000,10.37,150000,"Hass,Criollo,Bacon",10,Small-Medium,Mixed
+Mexico,Nayarit,140000,14000,10.00,60000,"Hass,Fuerte,Criollo",8,Small-Medium,Conventional
+Peru,La Libertad,320000,18000,17.78,240000,"Hass,Fuerte,Ettinger",22,Medium-Large,Intensive
+Peru,Lima,220000,13000,16.92,165000,"Hass,Zutano,Fuerte",18,Medium,Intensive
+Peru,Junín,105000,6500,16.15,75000,"Hass,Fuerte,Ettinger",25,Small-Medium,Mixed
+Peru,Ica,75000,4500,16.67,40000,"Hass,Zutano,Fuerte",15,Medium,Intensive
+Dominican Republic,Central,285000,14500,19.66,20000,"Semil-34,Carla,Hass",8,Small,Traditional
+Dominican Republic,Northern,195000,10000,19.50,15000,"Semil-34,Pollock,Carla",12,Small,Traditional
+Dominican Republic,Eastern,135000,7000,19.29,6000,"Semil-34,Hass,Wilson",5,Small,Traditional
+Dominican Republic,Southern,60000,3500,17.14,4000,"Semil-34,Carla,Choquette",15,Small,Traditional
+Colombia,Antioquia,180000,9500,18.95,35000,"Hass,Lorena,Reed",22,Small-Medium,Mixed
+Colombia,Tolima,110000,6000,18.33,20000,"Hass,Lorena,Choquette",15,Small-Medium,Mixed
+Colombia,Valle del Cauca,85000,5000,17.00,18000,"Hass,Reed,Fuerte",20,Small-Medium,Mixed
+Colombia,Caldas,75000,4500,16.67,12000,"Hass,Lorena,Reed",16,Small,Mixed
+Chile,Valparaíso,95000,11500,8.26,72000,"Hass,Fuerte,Negra de La Cruz",28,Medium,Intensive
+Chile,Coquimbo,65000,8500,7.65,48000,"Hass,Bacon,Zutano",25,Medium,Intensive
+Chile,O'Higgins,45000,5800,7.76,35000,"Hass,Fuerte,Bacon",22,Medium,Intensive
+Chile,Metropolitan Region,35000,4200,8.33,25000,"Hass,Fuerte,Negra de La Cruz",30,Medium-Large,Intensive
+Brazil,São Paulo,85000,6500,13.08,5000,"Margarida,Breda,Fortuna",10,Medium,Conventional
+Brazil,Minas Gerais,55000,4200,13.10,3500,"Margarida,Geada,Quintal",15,Medium,Conventional
+Brazil,Paraná,30000,2300,13.04,2000,"Margarida,Breda,Fortuna",8,Small-Medium,Conventional
+Brazil,Espírito Santo,25000,2000,12.50,1500,"Margarida,Geada,Quintal",12,Small-Medium,Conventional
+Ecuador,Pichincha,42000,3100,13.55,12000,"Hass,Fuerte,National",18,Small-Medium,Mixed
+Ecuador,Imbabura,35000,2600,13.46,9000,"Hass,Fuerte,National",16,Small-Medium,Mixed
+Ecuador,Azuay,23000,1700,13.53,6000,"Hass,Fuerte,National",12,Small,Mixed
+Ecuador,Carchi,15000,1100,13.64,3000,"Hass,Fuerte,National",14,Small,Mixed
+Argentina,Buenos Aires,28000,2000,14.00,9000,"Hass,Bacon,Zutano",25,Medium,Intensive
+Argentina,Tucumán,16000,1200,13.33,5000,"Hass,Bacon,Fuerte",20,Medium,Intensive
+Argentina,Salta,8000,600,13.33,2500,"Hass,Fuerte,Zutano",18,Small-Medium,Mixed
+Argentina,Jujuy,6000,400,15.00,1500,"Hass,Bacon,Fuerte",22,Small-Medium,Mixed
+Venezuela,Mérida,15000,2200,6.82,800,"Criollo,Hass,Fuerte",6,Small,Traditional
+Venezuela,Zulia,10000,1400,7.14,600,"Criollo,Hass,Choquette",5,Small,Traditional
+Venezuela,Trujillo,6000,900,6.67,400,"Criollo,Booth-8,Hass",10,Small,Traditional
+Venezuela,Táchira,4000,500,8.00,200,"Criollo,Fuerte,Hass",8,Small,Traditional
+Guatemala,Alta Verapaz,12000,1700,7.06,6500,"Hass,Booth-8,Pinkerton",10,Small,Mixed
+Guatemala,Quiché,8000,1200,6.67,4500,"Hass,Booth-8,Fuerte",15,Small,Mixed
+Guatemala,Sololá,5000,700,7.14,2500,"Hass,Pinkerton,Fuerte",12,Small,Traditional
+Guatemala,Chimaltenango,3000,400,7.50,1500,"Hass,Booth-8,Pinkerton",8,Small,Traditional
+Panama,Chiriquí,6500,1050,6.19,2000,"Choquette,Simmonds,Booth-8",12,Small,Mixed
+Panama,Veraguas,3500,550,6.36,1000,"Choquette,Booth-8,Simmonds",8,Small,Traditional
+Panama,Coclé,1800,300,6.00,350,"Choquette,Simmonds,Booth-8",10,Small,Traditional
+Panama,Herrera,700,100,7.00,150,"Choquette,Booth-8,Simmonds",5,Small,Traditional
+Bolivia,La Paz,7500,1300,5.77,800,"Hass,Booth-8,Criollo",20,Small,Traditional
+Bolivia,Cochabamba,4500,750,6.00,400,"Hass,Criollo,Fuerte",18,Small,Traditional
+Bolivia,Santa Cruz,2500,400,6.25,200,"Hass,Booth-8,Criollo",15,Small,Traditional
+Bolivia,Tarija,1500,250,6.00,100,"Hass,Criollo,Fuerte",22,Small,Traditional
+Honduras,Santa Bárbara,5000,800,6.25,2200,"Hass,Choquette,Booth-8",10,Small,Traditional
+Honduras,Olancho,3500,550,6.36,1500,"Hass,Choquette,Booth-8",8,Small,Traditional
+Honduras,El Paraíso,2000,300,6.67,800,"Hass,Booth-8,Choquette",12,Small,Traditional
+Honduras,Francisco Morazán,1500,250,6.00,500,"Hass,Choquette,Booth-8",6,Small,Traditional
+Nicaragua,Jinotega,4500,700,6.43,1800,"Hass,Booth-8,Choquette",8,Small,Traditional
+Nicaragua,Matagalpa,3000,500,6.00,1200,"Hass,Booth-8,Fuerte",10,Small,Traditional
+Nicaragua,Nueva Segovia,1800,300,6.00,700,"Hass,Choquette,Booth-8",12,Small,Traditional
+Nicaragua,Estelí,1200,200,6.00,300,"Hass,Booth-8,Choquette",7,Small,Traditional
+El Salvador,Santa Ana,3200,500,6.40,1400,"Hass,Booth-8,Benik",10,Small,Traditional
+El Salvador,Ahuachapán,2500,400,6.25,1000,"Hass,Booth-8,Benik",8,Small,Traditional
+El Salvador,Chalatenango,1800,300,6.00,700,"Hass,Benik,Booth-8",12,Small,Traditional
+El Salvador,La Libertad,1000,150,6.67,400,"Hass,Booth-8,Benik",6,Small,Traditional
+Costa Rica,Alajuela,4800,750,6.40,2200,"Hass,Choquette,Booth-8",15,Small-Medium,Mixed
+Costa Rica,San José,3200,500,6.40,1500,"Hass,Choquette,Booth-8",12,Small,Mixed
+Costa Rica,Cartago,2000,300,6.67,900,"Hass,Booth-8,Choquette",18,Small,Mixed
+Costa Rica,Heredia,1500,250,6.00,600,"Hass,Choquette,Booth-8",10,Small,Mixed
+Uruguay,Salto,1800,200,9.00,400,"Hass,Fuerte,Bacon",25,Small-Medium,Mixed
+Uruguay,Paysandú,1200,130,9.23,250,"Hass,Bacon,Fuerte",22,Small-Medium,Mixed
+Uruguay,Rivera,800,90,8.89,150,"Hass,Fuerte,Bacon",20,Small,Mixed
+Uruguay,Tacuarembó,600,80,7.50,100,"Hass,Bacon,Fuerte",18,Small,Mixed
+Paraguay,Itapúa,2100,350,6.00,300,"Hass,Fuerte,Criollo",10,Small,Traditional
+Paraguay,Alto Paraná,1500,250,6.00,200,"Hass,Criollo,Fuerte",8,Small,Traditional
+Paraguay,Cordillera,900,150,6.00,100,"Hass,Fuerte,Criollo",12,Small,Traditional
+Paraguay,Caaguazú,500,80,6.25,50,"Hass,Criollo,Fuerte",6,Small,Traditional
+Cuba,Artemisa,7500,1200,6.25,100,"West Indian,Catalina,Dupuis",5,Small,Traditional
+Cuba,Pinar del Río,6000,950,6.32,80,"West Indian,Catalina,Dupuis",3,Small,Traditional
+Cuba,Mayabeque,5000,800,6.25,60,"West Indian,Dupuis,Catalina",4,Small,Traditional
+Cuba,Matanzas,3500,600,5.83,40,"West Indian,Catalina,Dupuis",2,Small,Traditional
+Guyana,Demerara-Mahaica,1800,300,6.00,50,"West Indian,Pollock,Waldin",5,Small,Traditional
+Guyana,Essequibo Islands-West,1200,200,6.00,30,"West Indian,Pollock,Waldin",3,Small,Traditional
+Guyana,Upper Demerara-Berbice,800,150,5.33,20,"West Indian,Waldin,Pollock",4,Small,Traditional
+Guyana,Mahaica-Berbice,600,100,6.00,10,"West Indian,Pollock,Waldin",2,Small,Traditional
+Suriname,Paramaribo,1300,200,6.50,40,"West Indian,Pollock,Lula",4,Small,Traditional
+Suriname,Wanica,900,150,6.00,30,"West Indian,Lula,Pollock",3,Small,Traditional
+Suriname,Nickerie,600,100,6.00,20,"West Indian,Pollock,Lula",5,Small,Traditional
+Suriname,Commewijne,400,70,5.71,10,"West Indian,Lula,Pollock",2,Small,Traditional
+French Guiana,Cayenne,700,120,5.83,20,"West Indian,Lula,Pollock",6,Small,Traditional
+French Guiana,Saint-Laurent-du-Maroni,500,90,5.56,15,"West Indian,Pollock,Lula",4,Small,Traditional
+French Guiana,Kourou,300,50,6.00,10,"West Indian,Lula,Pollock",5,Small,Traditional
+French Guiana,Matoury,200,40,5.00,5,"West Indian,Pollock,Lula",3,Small,Traditional
+Puerto Rico,Adjuntas,4500,700,6.43,250,"West Indian,Semil-34,Hass",8,Small,Traditional
+Puerto Rico,Lares,3500,550,6.36,200,"West Indian,Semil-34,Hass",10,Small,Traditional
+Puerto Rico,Las Marías,2500,400,6.25,150,"West Indian,Hass,Semil-34",7,Small,Traditional
+Puerto Rico,Utuado,2000,300,6.67,100,"West Indian,Semil-34,Hass",9,Small,Traditional
+Belize,Cayo,1800,300,6.00,350,"Hass,Booth-8,Choquette",12,Small,Traditional
+Belize,Toledo,1200,200,6.00,250,"Hass,Choquette,Booth-8",10,Small,Traditional
+Belize,Stann Creek,800,150,5.33,150,"Hass,Booth-8,Choquette",8,Small,Traditional
+Belize,Orange Walk,600,100,6.00,100,"Hass,Choquette,Booth-8",6,Small,Traditional
